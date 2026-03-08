@@ -1,0 +1,14 @@
+html {
+	background-image: url("../img/stars.gif");
+}
+.centered {
+  	display: grid;
+	align-content: center;
+	place-items: center;
+	padding-top: 123px;
+	padding-left: 13.7px;
+	width: 100vw;
+}
+#logo {
+/*	place-self: center; */
+}

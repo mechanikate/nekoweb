@@ -1,0 +1,33 @@
+body {
+	width: 100%;
+	background-color: #000000;
+}
+body > * {
+	margin: auto;
+}
+table, td {
+	border: 1px solid #feff89;
+}
+td {
+	padding: 10px;
+}
+table {
+	width: 90%;
+	margin: auto;
+}
+p, b {
+	color: #ffff99;
+	font-size: 18px;
+}
+.links > a {
+	color: #ffff00;
+	font-size: 16px;
+}
+.center {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+#sitemapHeaderContainer {
+	padding-top: 98px;
+}
